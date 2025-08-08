@@ -2,7 +2,7 @@
 
 [![Banner](./images/banner.png)](https://www.linkedin.com/in/a1shuvo)
 
-<h1 align="center">🚀 Turning Ideas into Scalable Web Apps</h1>
+<h3 align="center">🚀 Turning Ideas into Scalable Web Apps</h3>
 
 ---
 
