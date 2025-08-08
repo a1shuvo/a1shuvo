@@ -65,8 +65,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a1shuvo)  
-[![X](<https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/a1shuvo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a1shuvo)  [![X](<https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/a1shuvo)
 
 📍 **Location:** Mymensingh-2250, Bangladesh  
 ✉️ **Email:** [a1shuvosaha@gmail.com](mailto:a1shuvosaha@gmail.com)  
